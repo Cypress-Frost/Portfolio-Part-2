@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: e15759194cde88a499812f1d170a25f7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_prison_wall_texture
+    second: {fileID: 2100000, guid: 8b834e2bd6043df4db2fe10136ae0dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottom_middle_deck_texture
+    second: {fileID: 2100000, guid: 3a3ffa325b94f074ebed2e00fe447543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_texture
+    second: {fileID: 2100000, guid: 24a532a4888fed44399fdbc2fddd0c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: end_prison_wall_texture
+    second: {fileID: 2100000, guid: 06615780820a3434d895d909dac12367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_and_back_wall_texture
+    second: {fileID: 2100000, guid: 3721c70acf331a64b94dbe7fd5ec4757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left_wall_texture
+    second: {fileID: 2100000, guid: 034d507350820df46882ed2856a0166d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mimic_exit_texture
+    second: {fileID: 2100000, guid: ce9dfa21a146aa44bbcd757c86560783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right_wall_texture
+    second: {fileID: 2100000, guid: 2d785504bb9f62048beb58bf590e35f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seperating_wall_texture
+    second: {fileID: 2100000, guid: aaa505ff4d88e804d87f155d5edfbc27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stairs_texture
+    second: {fileID: 2100000, guid: e42d843c6357b7e46ad096d432438b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tentacle_texture
+    second: {fileID: 2100000, guid: ef08a0321de78bd4ea1e50faf700abf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top_and_bottom_deck_texture
+    second: {fileID: 2100000, guid: 1316519ebcf224d40872646a3e636156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top_middle_deck_texture
+    second: {fileID: 2100000, guid: fac0656f4985de3468925705961a2064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trapdoor_texture
+    second: {fileID: 2100000, guid: a97bafeec87f05c49b7b3ebc5630d7f9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_back_prison_wall_tx_Height
+    second: {fileID: 2800000, guid: a794d9d7028e7d84bb47a8b3e3f072e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_back_prison_wall_tx_Metallic
+    second: {fileID: 2800000, guid: 08f60c1e3a2d5b54bbd1431bf29bdf22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_back_prison_wall_tx_Normal
+    second: {fileID: 2800000, guid: 0e9b6a56c37940b42892fe81fbdab45f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_back_prison_wall_tx_Opacity
+    second: {fileID: 2800000, guid: 2bf57988dbabdbc43941142fa72d3e3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_back_prison_wall_tx_Roughness
+    second: {fileID: 2800000, guid: 2f886f7e118307b48808d57cab56abd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_bottom_middle_deck_tx_Height
+    second: {fileID: 2800000, guid: 5172776ec2dd6ca478ab89090692e410, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_bottom_middle_deck_tx_Metallic
+    second: {fileID: 2800000, guid: f877ec99dc5ed174f8a8c450b3049ceb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_bottom_middle_deck_tx_Normal
+    second: {fileID: 2800000, guid: 84f34b7a0a3093145b4d6aae65ae9b7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_bottom_middle_deck_tx_Roughness
+    second: {fileID: 2800000, guid: 74dac7cae9b8083428d96f71b2c59747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_door_tx_Height
+    second: {fileID: 2800000, guid: d59573b050b1b6c4dbcb90591504fb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_door_tx_Metallic
+    second: {fileID: 2800000, guid: 292072e5206ac3141ba57168af0af1b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_door_tx_Normal
+    second: {fileID: 2800000, guid: e975efa15203b5643baec476c1fbbd58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_door_tx_Roughness
+    second: {fileID: 2800000, guid: 9922999213a37cf4ba3b75563fe7c3ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_end_prison_wall_tx_Height
+    second: {fileID: 2800000, guid: 358ea9e2045077a488a2326bacb069b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_end_prison_wall_tx_Metallic
+    second: {fileID: 2800000, guid: 1a26ca3115d3f3843b95331ee42c843d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_end_prison_wall_tx_Normal
+    second: {fileID: 2800000, guid: b4a59f9f0298712448dcb5e3fd2b4257, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_end_prison_wall_tx_Opacity
+    second: {fileID: 2800000, guid: 2cda9ed0a24566a438abd5044a3d68eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_end_prison_wall_tx_Roughness
+    second: {fileID: 2800000, guid: 4234bf1dfde4a5943ac76f21c539282f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_front_and_back_wall_tx_Height
+    second: {fileID: 2800000, guid: ae1dde387cd0d8d42bc3d443c407ff9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_front_and_back_wall_tx_Metallic
+    second: {fileID: 2800000, guid: 8c9680c229f485c49a30961006416202, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_front_and_back_wall_tx_Normal
+    second: {fileID: 2800000, guid: f7a9ef4845a202c4783bf57dddb9b94c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_front_and_back_wall_tx_Roughness
+    second: {fileID: 2800000, guid: f8d55d583b9ef344f906bf922242d4cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_left_wall_tx_Height
+    second: {fileID: 2800000, guid: 9327449ed475df942b3ee400f686fbae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_left_wall_tx_Metallic
+    second: {fileID: 2800000, guid: 78d54602bba84b340b2afdde3339cad1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_left_wall_tx_Normal
+    second: {fileID: 2800000, guid: d061c72d2c1e3de4cbd55ff60fc57a8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_left_wall_tx_Roughness
+    second: {fileID: 2800000, guid: a8e7de86ddc9a2544b0fac65e1bd5da5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_mimic_exit_tx_Height
+    second: {fileID: 2800000, guid: db155c25f06e25341bfbf161c8082e1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_mimic_exit_tx_Metallic
+    second: {fileID: 2800000, guid: 2cd6190f38b5c6940936dd25a37afe79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_mimic_exit_tx_Normal
+    second: {fileID: 2800000, guid: 8bbc086ac660e514b958107ea9c1e590, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_mimic_exit_tx_Opacity
+    second: {fileID: 2800000, guid: 573aa719d7e6de74d92c20cfd7536aa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_mimic_exit_tx_Roughness
+    second: {fileID: 2800000, guid: 46404d2fbdd6ad84a8f5002d387b82f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_right_wall_tx_Height
+    second: {fileID: 2800000, guid: 32a1a5ec3104b5f4496dc7881d61e829, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_right_wall_tx_Metallic
+    second: {fileID: 2800000, guid: 688d5bff0f7ceeb4582012b74b8eb92b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_right_wall_tx_Normal
+    second: {fileID: 2800000, guid: 41eda3ce1b30d4544b69708f49a7a8f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_right_wall_tx_Roughness
+    second: {fileID: 2800000, guid: c71df8c40e1249148a977fce32f9466e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_seperating_door_tx_Height
+    second: {fileID: 2800000, guid: 2ab05ce91ac07c04a931159ff02d8b90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_seperating_door_tx_Metallic
+    second: {fileID: 2800000, guid: af1302661cfbed9468cde542b117a20f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_seperating_door_tx_Normal
+    second: {fileID: 2800000, guid: d1ab4f07b0a4ca2459553c868b02788c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_seperating_door_tx_Opacity
+    second: {fileID: 2800000, guid: 751049c2a4e2fdd48a0e976b6636ed7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_seperating_door_tx_Roughness
+    second: {fileID: 2800000, guid: db6b16c915942c348b32a4ce439a19c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_stairs_tx_Height
+    second: {fileID: 2800000, guid: a59a61d94e9750c42978caf904f78b14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_stairs_tx_Metallic
+    second: {fileID: 2800000, guid: 3b1b222ca55fcab42911709525374f58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_stairs_tx_Normal
+    second: {fileID: 2800000, guid: 88bb85bf34774704b97a276350eae277, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_stairs_tx_Roughness
+    second: {fileID: 2800000, guid: acf327e1e3457d649a69f59b93be19ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_tentacle_tx_Height
+    second: {fileID: 2800000, guid: d66ea27b4b946724fbca33c841277868, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_tentacle_tx_Metallic
+    second: {fileID: 2800000, guid: 58894747ef994ef4b9aee17d894899d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_tentacle_tx_Normal
+    second: {fileID: 2800000, guid: a4bf734e034c90f4cabd6b80b8df00f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_tentacle_tx_Roughness
+    second: {fileID: 2800000, guid: 2027693ea7d212e489680a31c64c07ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_and_bottom_deck_tx_Height
+    second: {fileID: 2800000, guid: 61be01cdc2db61d4785eb2f47ca9f621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_and_bottom_deck_tx_Metallic
+    second: {fileID: 2800000, guid: d84b0561469fe5243bbb6d6cd32f5ef5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_and_bottom_deck_tx_Normal
+    second: {fileID: 2800000, guid: 9b0e658a8ecaef2489447f74b0bd85ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_and_bottom_deck_tx_Roughness
+    second: {fileID: 2800000, guid: 4944f4e55b0ebe24cb910764fdd4d0c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_middle_deck_tx_Height
+    second: {fileID: 2800000, guid: f3991b66f890a064d8510bd486d016ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_middle_deck_tx_Metallic
+    second: {fileID: 2800000, guid: cbcc63fdf026ccb4fa913c0e74a5b093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_middle_deck_tx_Normal
+    second: {fileID: 2800000, guid: 2c5f276ca02ba6041b6fd9929100f9dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_top_middle_deck_tx_Roughness
+    second: {fileID: 2800000, guid: 7854202cccc923345808910b04745468, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_trapdoor_tx_Height
+    second: {fileID: 2800000, guid: f9444bcfeee033442836a7d56f54bca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_trapdoor_tx_Metallic
+    second: {fileID: 2800000, guid: 71d6380018ca48a4bbff3e0cb65e4f77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_trapdoor_tx_Normal
+    second: {fileID: 2800000, guid: 7b5cca921366c4c4eaf3fc5680b0e6cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: environment_trapdoor_tx_Roughness
+    second: {fileID: 2800000, guid: d3ab8d85ee0ff9047bca45e318344983, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
